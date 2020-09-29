@@ -10,9 +10,9 @@ import random
 
 
 
-TOKEN = "NjkyMTEzMjM2MjM2OTU5Nzg3.Xozhig.-zLgbhLgzwSRaCmCx2KUHoMXq_Q"
-FortniteToken = '3a7d52ca-bc4f-48fd-98af-44a687eaf731'
-HypixelToken = ['00b107dc-7cf1-4a49-be79-ea132d94f4c8']
+TOKEN = ""
+FortniteToken = ''
+HypixelToken = ['']
 client = discord.Client()
 @client.event
 async def on_message(message):
